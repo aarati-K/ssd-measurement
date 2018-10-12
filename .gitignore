@@ -1,0 +1,6 @@
+test_files/*
+*.out
+*.png
+*.ods
+pollute
+btree_emulation/*
